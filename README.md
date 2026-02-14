@@ -14,7 +14,7 @@ The **C** language was created to be efficient and replace assembly language in 
 
 The **C++** language was created to meet the needs of C in the 1980s. The word that defines the creation of the C++ language is complexity. Complexity was what led to its creation, mainly due to the necessary modularity resulting from large lines of code for the programmer to work with; thus, the external language of object-oriented programming was created.
 
-Java, on the other hand, was created in **1991** by _Sun Microsystems_, Inc. with the intention of fulfilling another apparent need: platform independence.
+Java, on the other hand, was created in **1991** by _Sun Microsystems_, Inc. with the intention of fulfilling another apparent need: **platform independence**.
 
 Java changed the internet by solving problems such as portability and security. However, Java was always created with the idea of ​​embedded systems in mind, that is, the _Internet of Things_ (IoT) technology, later leading to the slogan: _Write Once, Run Anywhere_.
 
