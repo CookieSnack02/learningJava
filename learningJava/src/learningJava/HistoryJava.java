@@ -1,11 +1,9 @@
 package learningJava;
 
 public class HistoryJava {
-
-	public static void main(String[] args) {
-
-		/*
-		 ** 
+       	
+	     /*
+		 * 
 		 * Java emerged** as an heir to the C and C++ languages.
 		 * 
 		 * The **C language was** created to be efficient and to replace *assembly*
@@ -22,15 +20,17 @@ public class HistoryJava {
 		 * modularity required as a result of large lines of code for the programmer to
 		 * work with. Thus, the language was created with **a focus on object-oriente**
 		 * .
-		 ** 
+		 * 
 		 * Java**, on the other hand, was created in **1991 by** **Sun Microsystems,
 		 * INC**. with the aim of meeting another apparent need: **platform
 		 * independence**.
 		 * 
+		 * Java 
+		 *
+		 *
+		 *
 		 */
 
-		System.out.println();
 		
-	}
 
 }
