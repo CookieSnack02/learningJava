@@ -44,7 +44,7 @@ public class Palindrome {
 		Palindrome p = new Palindrome();
 		
 		if(p.isPalindrome(numero)) {
-			System.out.println("É palíndromo");
+			System.out.println("É palíndromo"); //Palindrome
 		} else {
 			System.out.println("Não é palíndromo!");
 		}
