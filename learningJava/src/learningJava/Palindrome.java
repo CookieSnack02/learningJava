@@ -39,6 +39,8 @@ public class Palindrome {
 		System.out.println("Digite um número: ");
 		numero = scan.nextInt();
 		
+		scan.close();
+		
 		Palindrome p = new Palindrome();
 		
 		if(p.isPalindrome(numero)) {
